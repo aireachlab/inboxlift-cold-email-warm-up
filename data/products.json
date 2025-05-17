@@ -1,0 +1,12 @@
+[
+  {
+    "position": 1,
+    "name": "InboxLift",
+    "slug": "inboxlift",
+    "description": "Cold email warm-up that builds trust before your campaigns launch.",
+    "image": "https://aireachlab.github.io/inboxlift-cold-email-warm-up/images/inboxlift.png",
+    "target_audience_match": "New domain senders who can’t afford to hit spam on Day 1",
+    "price": "$29/mo starter plan",
+    "data-link": "pending"
+  }
+]
