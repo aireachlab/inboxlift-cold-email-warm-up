@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://aireachlab.github.io/inboxlift-cold-email-warm-up/sitemap.xml
-Sitemap: https://aireachlab.github.io/inboxlift-cold-email-warm-up/ai-sitemap.xml
